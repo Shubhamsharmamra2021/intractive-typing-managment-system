@@ -1,0 +1,37 @@
+[08-Jan-2021 04:58:29 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/upde.php on line 168
+[08-Jan-2021 20:00:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 94
+[08-Jan-2021 20:00:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 94
+[08-Jan-2021 20:10:27 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 15
+[08-Jan-2021 20:14:07 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 15
+[08-Jan-2021 20:14:55 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 15
+[08-Jan-2021 20:15:36 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/up.php on line 15
+[12-Jan-2021 17:26:41 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 515
+[12-Jan-2021 17:46:34 UTC] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 190
+[12-Jan-2021 17:46:41 UTC] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 190
+[12-Jan-2021 17:46:42 UTC] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 190
+[12-Jan-2021 17:48:16 UTC] PHP Parse error:  syntax error, unexpected ''</span>'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 190
+[12-Jan-2021 17:48:29 UTC] PHP Parse error:  syntax error, unexpected ''</span>'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 190
+[26-Jan-2021 18:11:14 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/index.php on line 192
+[26-Jan-2021 18:45:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/index.php on line 174
+[30-Jan-2021 18:13:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 129
+[31-Jan-2021 19:37:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/type.php on line 110
+[01-Feb-2021 18:04:05 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:05:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:05:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:05:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:16:14 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:16:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/createtext.php on line 114
+[01-Feb-2021 18:16:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/createtext.php on line 114
+[01-Feb-2021 18:17:48 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 177
+[01-Feb-2021 18:41:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 178
+[01-Feb-2021 18:41:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 178
+[01-Feb-2021 18:41:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 178
+[01-Feb-2021 18:41:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 178
+[01-Feb-2021 18:42:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/usertypingtext.php on line 178
+[01-Feb-2021 18:53:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/gayatri.shivanjprogramming.tech/public_html/createtext.php on line 127
